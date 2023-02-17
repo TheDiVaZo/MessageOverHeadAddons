@@ -1,0 +1,4 @@
+# Project exclude paths
+/CitizensAddon/.gradle/
+/CitizensAddon/build/
+/CitizensAddon/build/classes/java/main/
